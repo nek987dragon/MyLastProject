@@ -13,5 +13,6 @@ async function GetOnePost(id) {
 }
 export{
     GetAllPost,
-    GetOnePost
+    GetOnePost,
+    url
 }
